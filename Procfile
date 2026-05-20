@@ -1,1 +1,1 @@
-worker: python "biotechnoeko bot.py"
+worker: python biotechnoeko_bot.py
