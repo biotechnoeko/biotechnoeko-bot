@@ -5,7 +5,7 @@
 # Dispatcher: @BioTexnoEkojamoa
 # ================================================
 
-import logging, random
+import logging, random, os
 from telegram import Update, ReplyKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import (
     Application, CommandHandler, MessageHandler,
